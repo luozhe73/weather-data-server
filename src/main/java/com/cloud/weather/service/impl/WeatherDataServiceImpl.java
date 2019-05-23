@@ -1,6 +1,7 @@
 package com.cloud.weather.service.impl;
 
 import com.cloud.weather.service.WeatherDataService;
+import com.cloud.weather.vo.WeatherResponse;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
